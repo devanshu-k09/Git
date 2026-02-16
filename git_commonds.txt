@@ -21,3 +21,4 @@
  rm testing.py
  git restore testing.py
  git status
+Kay bolate compony
