@@ -1,0 +1,23 @@
+ git init
+ git status
+ clr
+ clear
+ git status
+ git add testing.py
+ git status
+ git rm -- cached
+ git status
+ git rm -- cache
+ git rm -- cached testing.py
+ git status
+ clear
+ testing.py
+ clear
+ git status
+ git add testing.py
+ git status
+ git commit -m "added testing file"
+ git status
+ rm testing.py
+ git restore testing.py
+ git status
